@@ -553,6 +553,8 @@ public class Main3 {
     }
 
     private static Product citireProduseDeLaTastatura(Scanner key) {
+
+
         System.out.println("Introdu date produs");
         System.out.println("Introdu Codul de bare:");
         final long cod_de_bare = key.nextLong();
